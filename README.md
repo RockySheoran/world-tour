@@ -9,8 +9,8 @@ Complete Country Data: Access information for all recognized countries, includin
 #Population,                                                                                                                                                                                                     
 #Native Name,                                                                                                                                                                                                          
 #Official languages (optional),                                                                                                                                                                                        
-#sub region
-#Currency (optional)
+#sub region                        
+#Currency (optional)                                                           
 Interesting Facts: Discover unique facts about each country to enhance your knowledge.
 
 Search Functionality: Easily find specific countries using the search feature.
