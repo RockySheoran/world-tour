@@ -5,10 +5,10 @@ The World Countries Information Project is a comprehensive resource that provide
 Features
 Complete Country Data: Access information for all recognized countries, including:
 
-#Capital city
-#Population
-#Native Name
-#Official languages (optional)
+#Capital city,                                                                                                                                                                                                         
+#Population,                                                                                                                                                                                                     
+#Native Name,                                                                                                                                                                                                          
+#Official languages (optional),                                                                                                                                                                                        
 #sub region
 #Currency (optional)
 Interesting Facts: Discover unique facts about each country to enhance your knowledge.
